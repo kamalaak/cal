@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    background-color: #F8F4A6;
+   
 }
 .container {
     width: 80%;
@@ -46,4 +46,10 @@ body {
     color: #fff;
     padding: 10px;
     cursor: pointer;
+}
+.c{
+    background-color:  #41228e;
+}
+ul{
+    
 }
